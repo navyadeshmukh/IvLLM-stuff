@@ -1,4 +1,0 @@
-## Next Word Predictor
----
-Implemented a deep LSTM architecture trained on IMDB movie review dataset for predicting next word in a sequence. 
-The model learns short and long term dependencies and can generate complete sentences by iteratively predicting subsequent words.
